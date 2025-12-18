@@ -20,7 +20,7 @@
 
     function 자식2 (props){
         return(
-            <div style={{width :'100vw',
+            <div style={{width :'100vw',    
                 height : '200px',
                 border : '2px red solid'
             }}> <h3>자식 Compoenet 영역</h3>
